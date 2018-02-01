@@ -12,6 +12,7 @@ html {
   text-size-adjust: 100%;
   font: normal 100%/1.3 sans-serif;
   font-family: sans-serif;
+  line-height: 1.2;
 }
 
 *, *::before, *::after {
@@ -25,8 +26,4 @@ body {
 .img-flex {
   display: block;
   width: 100%;
-}
-
-h1 {
-  margin: .5rem;
 }
